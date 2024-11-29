@@ -1,0 +1,29 @@
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 1080px;
+  margin:  20px auto;
+  padding: 20px;
+  background-image: linear-gradient(109.6deg, rgb(95, 207, 128) 71.8%, rgb(78, 158, 112) 71.8%)
+}
+
+input, textarea, button {
+  margin: 10px 0;
+  padding: 5px;
+  width: 100%;
+}
+
+button {
+  background-color: blue;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+.card{
+  
+}
